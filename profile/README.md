@@ -1,16 +1,13 @@
-# 祐星社虚拟二次元项目组
+# 祐星技术研究社项目组
 
-主要开发：无声系主播打字姬、通用弹幕姬、分布式虚拟主播企划、C++ AITuber企划等
+## 项目组介绍
 
-主页正在建设中~
+专注于虚拟主播项目开发的项目小组。
 
-<!--
+## 主要项目群
 
-**Here are some ideas to get you started:**
+1. 无声系直播助手
+整合无声系直播需求和痛点的无声系直播综合控制中心。
+Echo-Live-Rev 基于纯前端sheep-realms/Echo-Live打字姬的支持后端控制的直播助手前端。  
+Lib-Echo-Live-API-Convert C++编写的Echo-Live-Websocket-Message-API和文字变量转化库
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
